@@ -3,7 +3,7 @@ Windows Path Editor
 
 This tool helps you manage your PATH on Windows.
 
-[Download Latest Version (1.7)](https://github.com/rix0rrr/WindowsPathEditor/releases/download/1.7/windowspatheditor-1.7.zip)
+[Download Latest Version (1.8)](https://github.com/rescenic/patheditor/releases/download/1.8/WindowsPathEditor.1.8.zip)
 
 Introduction
 -----------
@@ -29,4 +29,4 @@ Features
   them to your path.
 - UAC aware.
 
-![Screen Shot of Windows Path Editor](https://raw.github.com/rix0rrr/WindowsPathEditor/master/screenshot.png)
+![Editor](screenshot.png)

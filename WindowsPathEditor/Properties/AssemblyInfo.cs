@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("Windows Path Editor")]
 [assembly: AssemblyDescription("Application for easily editing the Windows PATH")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Rico Huijbers")]
+[assembly: AssemblyCompany("Rescenic, Ltd.")]
 [assembly: AssemblyProduct("Windows Path Editor")]
-[assembly: AssemblyCopyright("© 2013 Rico Huijbers")]
+[assembly: AssemblyCopyright("© 2013 Rico Huijbers © 2020 Rescenic")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -51,5 +51,5 @@ using System.Windows;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.7.0.0")]
-[assembly: AssemblyFileVersion("1.7.0.0")]
+[assembly: AssemblyVersion("1.8.0.0")]
+[assembly: AssemblyFileVersion("1.8.0.0")]
